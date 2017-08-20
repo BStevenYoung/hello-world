@@ -1,4 +1,8 @@
 # hello-world
+
+I am an English teacher at a university in China, trying to learn Chinese. I have found some good apps online, but none of them have random Chinese sentence generators. They are all pre-written. 
+
+
 Random Chinese sentence generator
 
 My goal for now is to create a complete application that generates random sentences from a specific topic. The sentences are Chinese simplified and pinyin. 
